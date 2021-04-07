@@ -1,0 +1,1 @@
+Host of Merchantstation 13, an unofficial Space Station 13 server for Sseth Tzeentach's fan community. Currently running an unchanged fork of Beestation code; all applicable rights, yadda yadda, etc. etc.
